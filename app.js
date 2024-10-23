@@ -1,4 +1,3 @@
-
 const pool = require('./db');
 
 pool.query('SELECT * FROM produto', (err, res) => {
