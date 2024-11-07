@@ -69,7 +69,7 @@ Esta é uma API simples para gerenciar produtos. A API permite criar, ler, atual
 1. Inicie o servidor:
 
     ```bash
-    npm start
+    node server.js
     ```
 
 2. A API estará disponível em `http://localhost:3000`.
